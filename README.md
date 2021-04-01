@@ -1,2 +1,2 @@
-# DS2500
+# Projects
 Hello world 
